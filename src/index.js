@@ -18,7 +18,8 @@
       'victory': '✌🏻',
       'rock': '✊️',
       'paper': '🖐',
-      'scissors': '✌️'
+      'scissors': '✌️',
+      'dont': '🙅‍♂️'
     }
 
     async function createDetector() {
