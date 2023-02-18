@@ -19,7 +19,8 @@
       'rock': '✊️',
       'paper': '🖐',
       'scissors': '✌️',
-      'dont': '🙅‍♂️'
+      'dont': '🙅‍♂️',
+      'hang_loose': '🤙🏼'
     }
 
     const base = ['Horizontal ', 'Diagonal Up ']
